@@ -1,7 +1,6 @@
 # sayonara-player-git
-Package version -Git-. Support for Archlinux
 
-PKGBUILD of Sayonara-Player for ArchLinux and derivatives.
+sayonara-player package git version - Archlinux/Manjaro/Antergos.
 
 Support for package. Link: https://aur.archlinux.org/packages/sayonara-player-git/
 
